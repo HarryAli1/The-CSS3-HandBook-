@@ -1,0 +1,1 @@
+tags , classes and id's can be combined by using ,

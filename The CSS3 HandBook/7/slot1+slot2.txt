@@ -1,0 +1,15 @@
+slot1(tags)
+0   0   0   0(slot1)
+
+slot2(1.class   2.psudo-class   3.attribute)
+
+0   0   0(slot2)   0
+
+
+p span              0    0   0   2
+
+[class='p-blue']    0    0   1   0
+
+
+
+1>prove that slot1(value=2) is less than slot2(value=1)?

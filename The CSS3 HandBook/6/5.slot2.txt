@@ -1,0 +1,15 @@
+slot2 
+
+0   0   0(2)   0
+
+incremented by:
+1.class selectors
+2.pseudo-class selectors
+3.attribute selectors
+
+
+.my-name{}      0   0   1   0
+.myname .red{}  0   0   2   0
+
+:hover{}        0   0   1   0
+[href$='.pdf']  0   0   1   0    

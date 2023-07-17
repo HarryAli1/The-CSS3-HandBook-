@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <style>
+        /*1.create a class and add it to the span tag
+        2.select all the tags up into the span tag
+        3.give an id
+        4.use > */
+        .sp{
+            color: coral;
+        }
+
+        div p span{
+            font-size: 60px;
+        }
+
+        /*span elements in p tags*/
+        p > span{
+            font-weight: bold;
+        }
+
+        /*the span tags comes after a div element*/
+            div + span{
+            background-color: rgb(31, 51, 181);
+        }
+
+        div > h1{
+            color: blue;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <p>
+            i have a wechat official account called <span class="sp">codecosmos</span>in chinese 
+        </p>
+    </div>
+    <span>
+        do i am not the one you should look for
+    </span>
+
+    <div>
+        <h1>i wanna be in blue color</h1>
+        <ul>
+            <li>
+                <span>i am the target</span>
+            </li>
+        </ul>
+    </div>
+</body>
+</html>

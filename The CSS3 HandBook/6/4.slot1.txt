@@ -1,0 +1,15 @@
+slot 1 (the rightmost one)------tags(count the tags for the value of the slot 1)
+
+incremented by:
+1.tags
+
+
+0     0     0   0     (1)
+
+
+p{}             0    0   0   1
+span{ }         0    0   0   1
+p span{}        0    0   0   2
+p > span{}      0    0   0   2
+div p > span    0    0   0   3
+
