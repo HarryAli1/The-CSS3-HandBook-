@@ -1,0 +1,13 @@
+::
+
+
+div::before {
+    content:'hello !!!!';
+}
+
+::bofore
+::after
+::first-letter
+::first-line
+::selection
+
