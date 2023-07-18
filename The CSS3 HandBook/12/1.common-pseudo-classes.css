@@ -1,0 +1,25 @@
+:active  /* clicked----links  bottons */
+:checked /*enaled-----checkbox radio input types */
+:default /*the default in -----opton select radio buttons */
+:disabled /*disabled----an element is disabled*/
+:empty
+:enabled
+:first-child
+:focus
+:hover
+:last-child
+:link
+:not()   /*elements that matches :not(span)*/
+:nth-child()
+:nth-last-child()
+:only-child
+:required /*a form element which has a required attribute set*/
+:root
+:target
+:valid
+:visited
+
+
+
+
+
