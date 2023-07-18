@@ -1,0 +1,8 @@
+slot 4
+
+incremented by :
+1.inline style
+
+0(slot4)   0   0   0
+
+

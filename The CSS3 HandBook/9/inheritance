@@ -1,0 +1,16 @@
+                        inheritance
+
+1.forcing to inherit    inherit
+
+
+2.do not inherit        revert
+
+
+                    3.initial(inherit from the browser default first)
+use the default browser stylesheet if available, if not ,
+and if the property inherits by default,inherit the value ,
+otherwise do nothing
+
+                    4.unset
+if the property inherits by default ,inherit,
+otherwise do nothing

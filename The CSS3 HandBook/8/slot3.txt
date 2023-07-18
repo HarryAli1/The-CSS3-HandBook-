@@ -1,0 +1,8 @@
+slot3
+
+incremented by :
+1:id selector
+
+0   0(slot3)   0   0
+
+#hr{}       0   1   0   0

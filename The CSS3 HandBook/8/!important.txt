@@ -1,0 +1,5 @@
+!important
+
+1.spicificity does notb matter when we use !important
+2.!important is going to take precedence over any rule 
+
