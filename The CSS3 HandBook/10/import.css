@@ -1,0 +1,12 @@
+/* you can use media discriptions to only load a CSS file */
+@import url(common.css) all;
+@import url(main.css) screen;
+@import url(myfile.css) print;
+
+p{
+    text-align: center;
+    font-weight: bold;
+    color: cyan;
+    font-family: monospace;
+    font-size: 40px;
+}
