@@ -1,0 +1,9 @@
+                            Macth An Attribute Value Portion
+
+
+h1[class ^= 'a']{}      //1.start with   ^
+div[class $= '1']       //2.ends with    $
+p[id *= '-']{}          //3.contain      *
+
+span[class |= 'span']   //4.starts with 'span' and followed by a dash or just contains the partial   |
+p[class -='p']          //5.contains the partial but seperated by spaces    -
