@@ -1,0 +1,22 @@
+1.names red blue cornsilk
++    transparent         currentColor
+
+
+2.RGB   RGBa            
+rgb(255,255,255)
+rgba(233,123,210,0.5)
+
+
+3.Hexademical notation
+rgb(0,0,0)-----#000000 or #000
+rgb(255,255,255)-----#ffffff or #ffffff
+
+
+
+4.hsl   HSLa
+black ---- hsl(0,0%,0%)
+hsl(55,30%,80%,0.4)
+
+
+
+
