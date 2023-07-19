@@ -1,0 +1,49 @@
+                        Units
+1.px
+2.%
+
+.parent{
+    width: 400px;
+}
+.child{
+    width:50%;  /*200*/
+}
+
+                        Real-world measurement units(useful for printing)
+1.cm   (maps to 37.8pixels)
+2.mm   (0.1cm)
+3.q    (a quarter of a millimeter)
+4.in   inch(maps to 96 pixels)
+5.pt   point(1 inch = 72 points)
+6.pc   pica(1 pica=12 points)
+
+
+
+                        Relative Units
+
+1.em    (assined to this element's font-size ---the width of the 'm' letter)---only font-size can change its value
+
+
+2.rem   (assined to the font-size of the root('html') element )---- nothing but root's font-size can change it 
+
+
+3.ex    (assinged to this element's font-size ----the height of the 'x' letter) -----font-size , font-family, font-weight
+
+
+4.ch    (assinged to this element's font-size ----the height of 0(zero)) -----font-size , font-family, font-weight
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
